@@ -28,7 +28,12 @@ Uma das funcionalidades dentro do jogo é o dispositivo para monitoramento de ir
 - Resistores de 200 Ω : Sua função é limitar o fluxo de corrente elétrica e ajustar os níveis de tensão, protegendo componentes sensíveis e garantindo o funcionamento correto de dispositivos.
 - Breadboard : Para melhor organização e vizualização.
 - Buzzer : Caso tenha perda ou possivel perda da horta.
+- 
+<hr>
 
+**𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
+- C++
+  
 <hr>
 
 **𝘊𝘰𝘮𝘰 𝘌𝘭𝘦𝘴 𝘍𝘶𝘯𝘤𝘪𝘰𝘯𝘢𝘮 𝘦𝘮 𝘊𝘰𝘯𝘫𝘶𝘯𝘵𝘰🍃**
@@ -39,27 +44,22 @@ O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o c
 
 **𝘗𝘦𝘳𝘥𝘢 𝘥𝘰 𝘈𝘭𝘪𝘮𝘦𝘯𝘵𝘰🍃**
 
-<img src="./assets/perca do alimento.png" alt="imagem" width="400" height="400"/>
+<img src="./assets/perca do alimento.png" alt="imagem" width="600" height="400"/>
 
 <hr>
 
 **𝘋𝘢𝘥𝘰𝘴 𝘥𝘢 𝘏𝘰𝘳𝘵𝘢🍃**
 
-<img src=".//assets/dados da horta.png" alt="imagem" width="400" height="400"/>
+<img src=".//assets/dados da horta.png" alt="imagem" width="600" height="400"/>
 
 <hr>
 
 **𝘊𝘰𝘭𝘩𝘦𝘪𝘵𝘢𝘴🍃**
 <hr>
-<img src="./assets/cafe.png" alt="imagem" width="400" height="400"/>
-<img src="./assets/frutas e hortalicas.png" alt="imagem" width="400" height="400"/>
-<img src="./assets/plantas tropicais.png" alt="imagem" width="400" height="400"/>
-<img src="./assets/graos.png" alt="imagem" width="400" height="400"/>
-
-<hr>
-
-**𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
-- C++
+<img src="./assets/cafe.png" alt="imagem" width="600" height="400"/>
+<img src="./assets/frutas e hortalicas.png" alt="imagem" width="600" height="400"/>
+<img src="./assets/plantas tropicais.png" alt="imagem" width="600" height="400"/>
+<img src="./assets/graos.png" alt="imagem" width="600" height="400"/>
 
 <hr>
   
