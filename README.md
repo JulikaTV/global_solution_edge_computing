@@ -37,6 +37,25 @@ O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o c
 
 <hr>
 
+**Perda do Alimento🍃**
+<img src="./assets/perca do alimento.png" alt="imagem" width="100" height="100"/>
+
+<hr>
+
+**Dados da Horta🍃**
+<img src=".//assets/dados da horta.png" alt="imagem" width="100" height="100"/>
+
+<hr>
+
+**Colheitas🍃**
+<hr>
+<img src="./assets/cafe.png" alt="imagem" width="100" height="100"/>
+<img src="./assets/frutas e hortalicas.png" alt="imagem" width="100" height="100"/>
+<img src="./assets/plantas tropicais.png" alt="imagem" width="100" height="100"/>
+<img src="./assets/graos.png" alt="imagem" width="100" height="100"/>
+
+<hr>
+
 **𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
 - C++
 
