@@ -1,34 +1,44 @@
-<h1 align="center">🌱Global Solution - Edge Computing🌱</h1>
+<h1 align="center">🌱𝙶𝚕𝚘𝚋𝚊𝚕 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗 - 𝙴𝚍𝚐𝚎 𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐🌱</h1>
 <br>
 <br>
 
-**Descrição🪴**  
-NomeDoProjeto é uma [breve descrição, por exemplo: "aplicação web que ajuda a gerenciar tarefas diárias de forma intuitiva e eficiente"]. O projeto foi criado com o objetivo de [explicar o propósito principal, como "aumentar a produtividade pessoal e de equipes"].
+**𝘔𝘢𝘤𝘳𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🪴**  
 
-**Funcionalidades Principais🍃**  
-- [Funcionalidade 1: ex. Criação e gerenciamento de tarefas com data de vencimento]
-- [Funcionalidade 2: ex. Sistema de notificações automáticas para prazos]
-- [Funcionalidade 3: ex. Colaboração em tempo real com outros usuários]
-- [Funcionalidade adicional ou diferencial: ex. Integração com serviços como Google Calendar]
+𝙰𝚖𝚊𝚛𝚢𝚕𝚕𝚒𝚜: 𝚃𝚑𝚎 𝙶𝚛𝚎𝚎𝚗 𝙴𝚗𝚍 é um jogo desenvolvido no intuito de concientizar e incentivar os jogadores a procurar formas alternativas de energia positiva contando a história de Amaryllis, uma garota de 13 anos que se encontra habitando um mundo em 2027 destruido por guerras e uso exarcebado de recursos naturais a ponto de trazer escasses ao planeta.
+Com sua mãe que possui tosses frequentes e seu pai acamado por uma doença grave respiratória, Amary, como é mais conhecida por aqueles ao seu redor, procura por meios para melhorara as condições de vida da sua familia, mas ainda ciente do lugar onde vive e o levou a aquele estado ela procura por meio de energia limpa trazer pureza ao ar para sua familia, comunidade e hortas criadas por si mesma. Apesar dos desafios Amaryllis possui uma esperança de trazer de voltar a viver em um mundo saudavel, mas infelizmente o mundo tem o seu limite, e é justamente isso o que queremos mostrar. Depois do limite é irreverssível.
 
-**Tecnologias Utilizadas🍃**  
-- [Tecnologia 1: ex. React.js para a interface de usuário]
-- [Tecnologia 2: ex. Node.js para o backend]
-- [Tecnologia 3: ex. MongoDB para armazenamento de dados]
+**𝘔𝘪𝘤𝘳𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🪴**  
 
-**Como Contribuir🍃**  
-Contribuições são bem-vindas! Para colaborar, siga as etapas abaixo:
-1. Fork o repositório.
-2. Crie uma branch para a sua feature (`git checkout -b feature/nome-da-feature`).
-3. Faça as alterações desejadas e adicione commits (`git commit -m 'Descrição da alteração'`).
-4. Envie um pull request.
+Uma das funcionalidades dentro do jogo é o dispositivo para monitoramento de irrigação e estado da horta da personagem. Foi feito um simulador no Wokwi para mostrar como esse dispositivo funcionaria também na vida real.
 
-**Como Executar o Projeto🍃**  
+**𝘔𝘢𝘵𝘦𝘳𝘪𝘢𝘪𝘴 𝘜𝘴𝘢𝘥𝘰𝘴 𝘦 𝘴𝘶𝘢𝘴 𝘍𝘶𝘯𝘤𝘪𝘰𝘯𝘢𝘭𝘪𝘥𝘢𝘥𝘦𝘴🍃** 
+
+- Arduino UNO : Sua principal função é servir como uma ponte entre o código para o projeto fisíco.
+- Servo Motor : Simular as irrigação das plantas.
+- Led Vermelho : Alerta de perda da colheita.
+- Led Amarelo : Alerta de possível perda da colheita.
+- Led Verde : Caso esteja em ótimo estado para cada tipo de colheita.
+- Tela LCD : Exibir as Mensagens de cada LED.
+- DHT22 : Lê a umidade e temperatura do ambiente
+- Jumpers macho : Conexão das peças.
+- Resistores de 200 Ω : Sua função é limitar o fluxo de corrente elétrica e ajustar os níveis de tensão, protegendo componentes sensíveis e garantindo o funcionamento correto de dispositivos.
+- Breadboard : Para melhor organização e vizualização.
+- Buzzer : Caso tenha perda ou possivel perda da horta.
+
+**𝘊𝘰𝘮𝘰 𝘌𝘭𝘦𝘴 𝘍𝘶𝘯𝘤𝘪𝘰𝘯𝘢𝘮 𝘦𝘮 𝘊𝘰𝘯𝘫𝘶𝘯𝘵𝘰🍃**
+
+O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o código que irá ditar os comandos. Quando a tmperatura e a umidade estiverem a baixo do ideal para uma boa condiçao da colheita, o buzzer ira emitir um som de alerta e uma mensagem ira aparecer na tela, caso o led verde fique acesso, isso quer dizer que a coleita esta em um ambiente adeuqado para cultivo e o servo motor ira fazer uma simulação de irrigação da horta, e quando o led estiver amarelo o buzzer irá acionar assim como no vermelho e uma mensagem também irá aparecer indicando possível perda.
+
+**𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
+- C++
+  
+**𝘓𝘪𝘯𝘬 𝘥𝘦 𝘈𝘤𝘦𝘴𝘴𝘰🍃**  
+https://wokwi.com/projects/414738026262732801
+
+**𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🍃**  
 Para executar o projeto localmente:
-1. Clone este repositório: `git clone https://github.com/seu-usuario/NomeDoProjeto.git`
-2. Instale as dependências com `npm install` (ou `yarn install`).
-3. Inicie o servidor com `npm start` (ou `yarn start`).
-4. Acesse `http://localhost:3000` em seu navegador para ver o projeto em ação.
+1. Clique no Link a cima 
+2. Depois de entrar na página do wokwi como o projeto aperte no play
 
-**Licença🏛️**  
+**𝙻𝚒𝚌𝚎𝚗𝚌̧𝚊🏛️**  
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
