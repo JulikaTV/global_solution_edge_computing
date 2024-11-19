@@ -37,22 +37,24 @@ O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o c
 
 <hr>
 
-**Perda do Alimento🍃**
-<img src="./assets/perca do alimento.png" alt="imagem" width="100" height="100"/>
+**𝘗𝘦𝘳𝘥𝘢 𝘥𝘰 𝘈𝘭𝘪𝘮𝘦𝘯𝘵𝘰🍃**
+
+<img src="./assets/perca do alimento.png" alt="imagem" width="400" height="400"/>
 
 <hr>
 
-**Dados da Horta🍃**
-<img src=".//assets/dados da horta.png" alt="imagem" width="100" height="100"/>
+**𝘋𝘢𝘥𝘰𝘴 𝘥𝘢 𝘏𝘰𝘳𝘵𝘢🍃**
+
+<img src=".//assets/dados da horta.png" alt="imagem" width="400" height="400"/>
 
 <hr>
 
-**Colheitas🍃**
+**𝘊𝘰𝘭𝘩𝘦𝘪𝘵𝘢𝘴🍃**
 <hr>
-<img src="./assets/cafe.png" alt="imagem" width="100" height="100"/>
-<img src="./assets/frutas e hortalicas.png" alt="imagem" width="100" height="100"/>
-<img src="./assets/plantas tropicais.png" alt="imagem" width="100" height="100"/>
-<img src="./assets/graos.png" alt="imagem" width="100" height="100"/>
+<img src="./assets/cafe.png" alt="imagem" width="400" height="400"/>
+<img src="./assets/frutas e hortalicas.png" alt="imagem" width="400" height="400"/>
+<img src="./assets/plantas tropicais.png" alt="imagem" width="400" height="400"/>
+<img src="./assets/graos.png" alt="imagem" width="400" height="400"/>
 
 <hr>
 
