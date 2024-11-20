@@ -33,7 +33,7 @@ Uma das funcionalidades dentro do jogo é o dispositivo para monitoramento de ir
 
 **𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
 
-- <img src="https://skillicons.dev/icons?i=cpp" />  para comandos do arduino
+- <img src="https://skillicons.dev/icons?i=cpp" /> : Para comandos do arduino
   
 <hr>
 
