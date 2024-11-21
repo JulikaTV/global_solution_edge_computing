@@ -28,7 +28,7 @@ Uma das funcionalidades dentro do jogo é o dispositivo para monitoramento de ir
 - Resistores de 200 Ω : Sua função é limitar o fluxo de corrente elétrica e ajustar os níveis de tensão, protegendo componentes sensíveis e garantindo o funcionamento correto de dispositivos.
 - Breadboard : Para melhor organização e vizualização.
 - Buzzer : Caso tenha perda ou possivel perda da horta.
-- 
+  
 <hr>
 
 **𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
@@ -70,7 +70,9 @@ https://wokwi.com/projects/414738026262732801
 <hr>
 
 **𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🍃**  
+
 Para executar o projeto localmente:
+
 1. Clique no Link a cima 
 2. Depois de entrar na página do wokwi como o projeto aperte no play
 
