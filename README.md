@@ -37,6 +37,12 @@ Uma das funcionalidades dentro do jogo é o dispositivo para monitoramento de ir
   
 <hr>
 
+**𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘴 𝘜𝘴𝘢𝘥𝘰𝘴🍃**  
+
+- <img src="https://skillicons.dev/icons?i=vscode" />   : VSCode
+
+<hr>
+
 **𝘊𝘰𝘮𝘰 𝘌𝘭𝘦𝘴 𝘍𝘶𝘯𝘤𝘪𝘰𝘯𝘢𝘮 𝘦𝘮 𝘊𝘰𝘯𝘫𝘶𝘯𝘵𝘰🍃**
 
 O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o código que irá ditar os comandos. Quando a tmperatura e a umidade estiverem a baixo do ideal para uma boa condiçao da colheita, o buzzer ira emitir um som de alerta e uma mensagem ira aparecer na tela, caso o led verde fique acesso, isso quer dizer que a coleita esta em um ambiente adeuqado para cultivo e o servo motor ira fazer uma simulação de irrigação da horta, e quando o led estiver amarelo o buzzer irá acionar assim como no vermelho e uma mensagem também irá aparecer indicando possível perda.
