@@ -51,22 +51,22 @@ O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o c
 
 **𝘗𝘦𝘳𝘥𝘢 𝘥𝘰 𝘈𝘭𝘪𝘮𝘦𝘯𝘵𝘰🍃**
 
-<img src="./assets/perca do alimento.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/perca do alimento.png" alt="imagem" width="600" height="400"/>
 
 <hr>
 
 **𝘋𝘢𝘥𝘰𝘴 𝘥𝘢 𝘏𝘰𝘳𝘵𝘢🍃**
 
-<img src=".//assets/dados da horta.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/dados da horta.png" alt="imagem" width="600" height="400"/>
 
 <hr>
 
 **𝘊𝘰𝘭𝘩𝘦𝘪𝘵𝘢𝘴🍃**
 <hr>
-<img src="./assets/cafe.png" alt="imagem" width="600" height="400"/>
-<img src="./assets/frutas e hortalicas.png" alt="imagem" width="600" height="400"/>
-<img src="./assets/plantas tropicais.png" alt="imagem" width="600" height="400"/>
-<img src="./assets/graos.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/frutas e hortalicas.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/graos.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/graos.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/plantas tropicais.png" alt="imagem" width="600" height="400"/>
 
 <hr>
   
